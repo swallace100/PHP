@@ -3,7 +3,7 @@
 ## Description
 
 - Would you like to flip a coin, but don't have one around? Use this instead!
-- Click on the "Flip a Coin" button and a heads or tails button will show below the button.
+- Click on the "Flip a Coin" button and a coin showing heads or tails will appear below the button.
 
 ## Installation
 
